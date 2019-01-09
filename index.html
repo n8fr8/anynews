@@ -3,17 +3,30 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Local News</title>
-	<script src='js/rss.js' defer></script>
-	<link rel='stylesheet' href='css/style.css'>
+    <script src='js/jquery-3.3.1.min.js'></script>
+
+	<script src='js/anynews.js'></script>
+
+<link rel="stylesheet" href="css/pure/pure-min.css">
+    
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" href="css/pure/grids-responsive-old-ie-min.css">
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+        <link rel="stylesheet" href="css/pure/grids-responsive-min.css">
+    <!--<![endif]-->
+ <!--[if lte IE 8]>
+            <link rel="stylesheet" href="css/layouts/blog-old-ie.css">
+        <![endif]-->
+        <!--[if gt IE 8]><!-->
+            <link rel="stylesheet" href="css/layouts/blog.css">
+        <!--<![endif]-->
+
+
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-	<output>Loading...</output>
-	<template>
-		<h2></h2>
-		<h3></h3>
-		<a href='#'></a>
-		<p></p>
-	</template>
+	<div id="output">Loading...</div>
+	<script>loadFeed('feed/rfa/index.xml')</script>
 </body>
 </html>
