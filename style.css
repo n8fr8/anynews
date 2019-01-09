@@ -7,14 +7,14 @@ html	{
 	font-size: 11pt;
 }
 body{
-	width: 480px;
 	margin: auto;
+	padding: 10px;
 }
 body > h1{
 	text-align: center;
 }
 h2{
-	color: orangered;
+	color: #000033;
 	margin-bottom: 0;
 	font-size: 16pt;
 }
@@ -36,7 +36,7 @@ p{
 	margin: 0;
 }
 output h1 {
-	background-color: orangered;
+	background-color: darkblue;
 	text-indent: 5px;
 	color:white;
 	font-size: 18pt;
