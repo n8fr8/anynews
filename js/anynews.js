@@ -1,19 +1,18 @@
 
-function loadFeed (rssurl) {
+function loadFeed (rssurl,templateName) {
 
 console.debug("loading: " + rssurl)
 
 $.get(rssurl, function(data) {
     var $xml = $(data);
 
+    var siteTitle;
+
     $xml.find("title:first").each(function() {
-	$("#site-title").text($(this).text());;
-    });
-    $xml.find("description:first").each(function() {
-	$("#site-description").text($(this).text());
+	siteTitle = $(this).text();
     });
 
-    var tmpl = $.templates("#post-template"); // Get compiled template
+    var tmpl = $.templates("#"+templateName); // Get compiled template
 
     $xml.find("item").each(function() {
        var $this = $(this),
@@ -25,7 +24,8 @@ $.get(rssurl, function(data) {
                 author: $this.find("author").text(),
 		content: $this.find("content\\:encoded").text(),
 		imageSrc: $this.find("media\\:content").attr("url"),
-		imageDesc: $this.find("media\\:description").text()
+		imageDesc: $this.find("media\\:description").text(),
+		category: siteTitle
         }
 
     	var html = tmpl.render(item);

@@ -137,10 +137,11 @@ h3 {
     margin: 1em 0;
 }
 .post-image-meta {
-    margin-top: -3.5em;
-    margin-left: 1em;
+    margin-top: -1em;
     color: #fff;
     text-shadow: 0 1px 1px #333;
+    background-color:#333;
+    padding:.5em;
 }
 
 .footer {
