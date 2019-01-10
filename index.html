@@ -50,10 +50,13 @@
                         <a class="pure-button" href="#" onClick="loadFeed('feed/uyghur/rss2.xml','#postTemplate')">Uyghur News</a>
                     </li>
                     <li class="nav-item">
-                        <a class="pure-button" href="#" onClick="loadFeed('feed/podcast/cantonese.xml','#postTemplate')">自由亞洲電台粵語部廣播 (Cantonese Podcast)</a>
+                        <a class="pure-button" href="#" onClick="loadFeed('feed/podcast/cantonese.xml','#podcastTemplate')">自由亞洲電台粵語部廣播 (Cantonese Podcast)</a>
                     </li>
                     <li class="nav-item">
                         <a class="pure-button" href="#" onClick="loadFeed('feed/rfa/index.xml','#imageTemplate')">Photo Feed</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="pure-button" href="#" onClick="loadFeed('feed/rfa/index.xml','#headlineTemplate')">Headlines Only</a>
                     </li>
                 </ul>
             </nav>
@@ -83,14 +86,31 @@
 </section>
 
   </script>
-  <script id="postTemplate" type="text/x-jsrender">
-
+  <script id="headlineTemplate" type="text/x-jsrender">
+<header class="post-header">
+<img alt="{{:imageDesc}}" class="pure-img-responsive" src="{{:imageSrc}}" width="128px" style="float:left;margin:6px;">
+                        <h3 class="post-title" style="font-size:18pt" onClick="$('#{{:guid}}').show()">{{:title}}</h3>
+                   <div class="post-description"><p>{{:pubDate}}</p></div>
+                    </header>
+		   <div id="{{:guid}}" class="post-description" style="display:none;"><p>{{:content}}</p></div>
+</script>
+  <script id="podcastTemplate" type="text/x-jsrender">
 <section class="post"><header class="post-header">
-<!--
-                        <img width="48" height="48" class="post-avatar" src="img/common/ericf-avatar.png">
--->
+
                         <h2 class="post-title">{{:title}}</h2>
-                        <p class="post-meta"><a class="post-author" href="#">{{:author}}</a> {{:category}}</p>
+                        <p class="post-meta"><a class="post-author" href="#">{{:author}}</a> {{:category}} {{:pubDate}}</p>
+                    </header>
+                   <div class="post-description"><p>{{:description}}</p></div>
+		<div class="post-description"> <audio controls>
+  <source src="{{:enclosure}}" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> </div>
+</section>
+  </script>
+  <script id="postTemplate" type="text/x-jsrender">
+<section class="post"><header class="post-header">
+                        <h2 class="post-title">{{:title}}</h2>
+                        <p class="post-meta"><a class="post-author" href="#">{{:author}}</a> {{:category}} {{:pubDate}}</p>
                     </header>
                    <div class="post-description"><p>{{:description}}</p></div>
                    <div class="post-description">
