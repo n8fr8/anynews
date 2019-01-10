@@ -54,7 +54,8 @@ $.get(rssurl, function(data) {
             item = {
                 title: $this.find("title").text(),
                 link: $this.find("link").text(),
-                guid: idx++,
+                guid: $this.find("guid").text(),
+                index: idx++,
                 description: $this.find("description").text(),
                 pubDate: $this.find("pubDate").text(),
                 author: $this.find("author").text(),
@@ -71,7 +72,11 @@ $.get(rssurl, function(data) {
 		item.imageSrc = item.enclosure;
 		item.enclosure = "";
         }	
-		
+
+	if (!item.link) {
+		item.link = item.guid;
+	}
+
 
     	var html = tmpl.render(item);
 	$('#output').append(html);

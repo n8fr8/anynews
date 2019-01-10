@@ -95,10 +95,10 @@
   <script id="headlineTemplate" type="text/x-jsrender">
 <header class="post-header">
 <img alt="{{:imageDesc}}" class="pure-img-responsive" src="{{:imageSrc}}" width="128px" style="float:left;margin:6px;">
-                        <h3 class="post-title" style="font-size:18pt" onClick="$('#{{:guid}}').show()">{{:title}}</h3>
+                        <h3 class="post-title" style="font-size:18pt" onClick="$('#{{:index}}').show()">{{:title}}</h3>
                    <div class="post-description"><p>{{:pubDate}}</p></div>
                     </header>
-		   <div id="{{:guid}}" class="post-description" style="display:none;"><p>{{:content}}</p></div>
+		   <div id="{{:index}}" class="post-description" style="display:none;"><p>{{:content}}</p></div>
 </script>
   <script id="podcastTemplate" type="text/x-jsrender">
 <section class="post"><header class="post-header">
@@ -116,7 +116,7 @@ Your browser does not support the audio element.
   <script id="postTemplate" type="text/x-jsrender">
 <section class="post"><header class="post-header">
                         <h2 class="post-title">{{:title}}</h2>
-                        <p class="post-meta"><a class="post-author" href="#">{{:author}}</a> {{:category}} {{:pubDate}}</p>
+                        <p class="post-meta"><a class="post-author" href="#">{{:author}}</a> {{:category}} {{:pubDate}} <a href="{{:link}}">&#x1F310;</a></p>
                     </header>
                    <div class="post-description"><p>{{:description}}</p></div>
                    <div class="post-description">
