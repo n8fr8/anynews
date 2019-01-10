@@ -8,10 +8,10 @@
 Prototype concept of an "News Lite" mobile progressive web app:
 
 Demo deployment up at:
-https://master.d2i0urpzcj2rjt.amplifyapp.com
-https://n8fr8.github.io/anynews/
-https://s3.amazonaws.com/anynews/index.html
-https://ipfs.infura.io/ipfs/QmX9G8i9fkkac8ZrcibAyMYo4haJGtL7mPh5g3RwzDcicy
+- https://master.d2i0urpzcj2rjt.amplifyapp.com
+- https://n8fr8.github.io/anynews/
+- https://s3.amazonaws.com/anynews/index.html
+- https://ipfs.infura.io/ipfs/QmX9G8i9fkkac8ZrcibAyMYo4haJGtL7mPh5g3RwzDcicy
 
 Fully mirrors feeds, media from RSS capable CMS server to any static host /
 mirror / CDN / IPFS / collateral freedom repo, then using PWA features
