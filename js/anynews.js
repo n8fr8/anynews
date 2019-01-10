@@ -62,8 +62,16 @@ $.get(rssurl, function(data) {
 		imageSrc: $this.find("media\\:content").attr("url"),
 		imageDesc: $this.find("media\\:description").text(),
 		enclosure: $this.find("enclosure").attr("url"),
+		enclosureType: $this.find("enclosure").attr("type"),
 		category: siteTitle
         }
+
+	console.debug(item.enclosureType);
+	if (item.enclosureType === "image/jpeg"){
+		item.imageSrc = item.enclosure;
+		item.enclosure = "";
+        }	
+		
 
     	var html = tmpl.render(item);
 	$('#output').append(html);

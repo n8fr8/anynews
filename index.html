@@ -6,13 +6,16 @@
     <meta name="description" content="A layout example that shows off a blog page with a list of posts.">
     <link rel="manifest" href="/manifest.json">
 
+    <link rel="stylesheet" href="css/pure/pure-min.css">
+    <link rel="stylesheet" href="css/lightbox.min.css">
+
     <script src='js/jquery-3.3.1.min.js'></script>
   <script src='js/jsrender.min.js'></script>
     <script src='js/anynews.js'></script>
+   <script src='js/lightbox.min.js'></script>
 
     <title>The News</title>
     
-    <link rel="stylesheet" href="css/pure/pure-min.css">
     
     <!--[if lte IE 8]>
         <link rel="stylesheet" href="css/pure/grids-responsive-old-ie-min.css">
@@ -50,6 +53,9 @@
                         <a class="pure-button" href="#" onClick="loadFeed('feed/uyghur/rss2.xml','#postTemplate')">Uyghur News</a>
                     </li>
                     <li class="nav-item">
+                        <a class="pure-button" href="#" onClick="loadFeed('feed/urduvoa/index.xml','#postTemplate')">پاکستان - وائس آف امریکہ</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="pure-button" href="#" onClick="loadFeed('feed/podcast/cantonese.xml','#podcastTemplate')">自由亞洲電台粵語部廣播 (Cantonese Podcast)</a>
                     </li>
                     <li class="nav-item">
@@ -73,7 +79,7 @@
   <script id="imageTemplate" type="text/x-jsrender">
 <section class="post">
                             <div class="pure-u-1 pure-u-md-1-2"  >
-                                <a href="#">
+                                <a href="{{:imageSrc}}" data-lightbox="news" data-title="{{:imageDesc}}">
                                     <img alt="{{:imageDesc}}"
                                          class="pure-img-responsive"
                                          src="{{:imageSrc}}">
@@ -115,9 +121,10 @@ Your browser does not support the audio element.
                    <div class="post-description"><p>{{:description}}</p></div>
                    <div class="post-description">
 
+{{if imageSrc && imageSrc.length}}
 <div class="post-images pure-g">
                             <div class="pure-u-1 pure-u-md-1-2">
-                                <a href="#">
+                                <a href="{{:imageSrc}}" data-lightbox="news" data-title="{{:imageDesc}}">
                                     <img alt="{{:imageDesc}}"
                                          class="pure-img-responsive"
                                          src="{{:imageSrc}}">
@@ -130,10 +137,15 @@ Your browser does not support the audio element.
 
                         </div>
 		</div>
+{{else}}
+{{/if}}
+{{if enclosure && enclosure.length}}
 		<div class="post-description"> <audio controls>
   <source src="{{:enclosure}}" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> </div>
+{{else}}
+{{/if}}
                    <div class="post-description"><p>{{:content}}</p></div>
 
 </section>
