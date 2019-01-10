@@ -1,4 +1,8 @@
-# RSS Reader (JavaScript)
-RSS reader written in JavaScript.  
+# Anynews: Micronews Reader
+
+- RSS reader written in JavaScript. 
+- Light, simple, responsive design, easily themed, customized
+- Can display fully self contained feeds, images, podcast files and more, all through relative path loading
+- Can load from local disk, bucket, ipfs node, onion site...
+
   
->💁 If you're getting `Cross origin requests are only supported for HTTP` error while opening the HTML with `file:///` protocol, just open and save the HTML file using a text editor, that should resolve the issue. Or, for a quick test, you can also use a browser add-on such as [CORS Everywhere for Firefox](https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/).
