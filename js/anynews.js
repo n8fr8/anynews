@@ -1,4 +1,8 @@
 
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('service-worker.js');
+}
+
 function loadFeed (rssurl,templateName) {
 
 console.debug("loading: " + rssurl)
