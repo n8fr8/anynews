@@ -10,6 +10,9 @@ window.addEventListener('beforeinstallprompt', (e) => {
   e.preventDefault();
   // Stash the event so it can be triggered later.
   deferredPrompt = e;
+  
+  $("#add-app").show();
+  
 });
 
 function showAddAppPrompt () {
@@ -26,7 +29,6 @@ function showAddAppPrompt () {
       }
       deferredPrompt = null;
     });
-
 
 }
 
@@ -80,6 +82,7 @@ $.get(rssurl, function(data) {
 
     	var html = tmpl.render(item);
 	$('#output').append(html);
+	$(window).scrollTop($('#latest-news').offset().top);
     });
 });
 
