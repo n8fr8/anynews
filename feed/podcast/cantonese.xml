@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<?xml-stylesheet type="text/css" href="font.css"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>自由亞洲電台粵語部廣播</title>
+		<description>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</description>
+		<link>https://www.rfa.org/cantonese/</link>
+		<language>zh-HK</language>
+		<copyright>Radio Free Asia</copyright>
+		<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+		<itunes:author>Radio Free Asia </itunes:author>
+		<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+		<itunes:owner><itunes:name>Radio Free Asia</itunes:name>
+		<itunes:email>podcast@rfa.org</itunes:email></itunes:owner>
+		<image><title>自由亞洲電臺粵語部廣播</title><url>https://www.rfa.org/english/images/itune-cantonese.jpg</url></image>
+		<itunes:category text="News &amp; Politics"></itunes:category>
+		<itunes:new-feed-url>https://streamer1.rfaweb.org/audio/CAN/Cantonese_podcast.php</itunes:new-feed-url>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+
+		<item>
+			<title>粵語部廣播資料 2019-01-09 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0109-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0109-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0109-1400.mp3</guid>
+			<pubDate>Wed, 09 Jan 2019 15:01:22 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2019-01-08 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0108-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0108-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0108-1400.mp3</guid>
+			<pubDate>Tue, 08 Jan 2019 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2019-01-07 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0107-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0107-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0107-1400.mp3</guid>
+			<pubDate>Mon, 07 Jan 2019 15:01:22 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2019-01-06 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0106-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0106-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0106-1400.mp3</guid>
+			<pubDate>Sun, 06 Jan 2019 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2019-01-05 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0105-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0105-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0105-1400.mp3</guid>
+			<pubDate>Sat, 05 Jan 2019 15:01:22 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2019-01-04 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0104-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0104-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0104-1400.mp3</guid>
+			<pubDate>Fri, 04 Jan 2019 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2019-01-03 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0103-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0103-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0103-1400.mp3</guid>
+			<pubDate>Thu, 03 Jan 2019 15:01:22 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2019-01-02 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0102-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0102-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0102-1400.mp3</guid>
+			<pubDate>Wed, 02 Jan 2019 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2019-01-01 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0101-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0101-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2019-0101-1400.mp3</guid>
+			<pubDate>Tue, 01 Jan 2019 15:01:22 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-31 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1231-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1231-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1231-1400.mp3</guid>
+			<pubDate>Mon, 31 Dec 2018 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-30 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1230-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1230-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1230-1400.mp3</guid>
+			<pubDate>Sun, 30 Dec 2018 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-29 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1229-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1229-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1229-1400.mp3</guid>
+			<pubDate>Sat, 29 Dec 2018 15:01:22 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-28 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1228-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1228-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1228-1400.mp3</guid>
+			<pubDate>Fri, 28 Dec 2018 15:01:22 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-27 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1227-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1227-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1227-1400.mp3</guid>
+			<pubDate>Thu, 27 Dec 2018 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-26 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1226-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1226-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1226-1400.mp3</guid>
+			<pubDate>Wed, 26 Dec 2018 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-25 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1225-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1225-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1225-1400.mp3</guid>
+			<pubDate>Tue, 25 Dec 2018 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-24 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1224-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1224-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1224-1400.mp3</guid>
+			<pubDate>Mon, 24 Dec 2018 15:01:22 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-23 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1223-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1223-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1223-1400.mp3</guid>
+			<pubDate>Sun, 23 Dec 2018 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-22 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1222-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1222-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1222-1400.mp3</guid>
+			<pubDate>Sat, 22 Dec 2018 15:01:22 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-21 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1221-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1221-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1221-1400.mp3</guid>
+			<pubDate>Fri, 21 Dec 2018 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-20 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1220-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1220-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1220-1400.mp3</guid>
+			<pubDate>Thu, 20 Dec 2018 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-19 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1219-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1219-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1219-1400.mp3</guid>
+			<pubDate>Wed, 19 Dec 2018 15:01:22 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-18 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1218-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1218-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1218-1400.mp3</guid>
+			<pubDate>Tue, 18 Dec 2018 15:01:22 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-17 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1217-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1217-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1217-1400.mp3</guid>
+			<pubDate>Mon, 17 Dec 2018 15:01:22 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-16 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1216-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1216-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1216-1400.mp3</guid>
+			<pubDate>Sun, 16 Dec 2018 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-15 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1215-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1215-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1215-1400.mp3</guid>
+			<pubDate>Sat, 15 Dec 2018 15:01:22 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-14 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1214-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1214-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1214-1400.mp3</guid>
+			<pubDate>Fri, 14 Dec 2018 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-13 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1213-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1213-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1213-1400.mp3</guid>
+			<pubDate>Thu, 13 Dec 2018 15:01:22 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-12 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1212-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1212-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1212-1400.mp3</guid>
+			<pubDate>Wed, 12 Dec 2018 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+		<item>
+			<title>粵語部廣播資料 2018-12-11 15:01</title>
+			<enclosure url="https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1211-1400.mp3" length="7164177" type="audio/mpeg" />
+			<link>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1211-1400.mp3</link>
+			<itunes:author>Radio Free Asia</itunes:author>
+			<itunes:subtitle>新聞，評論，專題，翻牆知識，聽眾互動</itunes:subtitle>
+			<itunes:summary>每週七天，每天兩小時。為您提供新聞，評論，專題和翻牆知識……</itunes:summary>
+			<itunes:image href="https://www.rfa.org/english/images/itune-cantonese.jpg" />
+			<guid>https://streamer1.rfaweb.org/archive/CAN/CAN-2018-1211-1400.mp3</guid>
+			<pubDate>Tue, 11 Dec 2018 15:01:21 +0000</pubDate>
+			<description>新聞，評論，專題，翻牆知識，聽眾互動</description>
+			<itunes:keywords>RFA, Radio Free Asia, 自由亞洲電臺粵語部, hongkong</itunes:keywords>
+		</item>
+
+	</channel>
+</rss>

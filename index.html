@@ -49,6 +49,12 @@
                     <li class="nav-item">
                         <a class="pure-button" href="#" onClick="loadFeed('feed/uyghur/rss2.xml','#postTemplate')">Uyghur News</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="pure-button" href="#" onClick="loadFeed('feed/podcast/cantonese.xml','#postTemplate')">自由亞洲電台粵語部廣播 (Cantonese Podcast)</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="pure-button" href="#" onClick="loadFeed('feed/rfa/index.xml','#imageTemplate')">Photo Feed</a>
+                    </li>
                 </ul>
             </nav>
         </div>
@@ -61,6 +67,22 @@
                 <h1 class="content-subhead">Latest News</h1>
 		<div id="output"></div>
             </div>
+  <script id="imageTemplate" type="text/x-jsrender">
+<section class="post">
+                            <div class="pure-u-1 pure-u-md-1-2"  >
+                                <a href="#">
+                                    <img alt="{{:imageDesc}}"
+                                         class="pure-img-responsive"
+                                         src="{{:imageSrc}}">
+                                </a>
+
+                                <div class="post-image-meta">
+                                    <h3>{{:imageDesc}}</h3>
+                                </div>
+                            </div>
+</section>
+
+  </script>
   <script id="postTemplate" type="text/x-jsrender">
 
 <section class="post"><header class="post-header">
@@ -88,6 +110,10 @@
 
                         </div>
 		</div>
+		<div class="post-description"> <audio controls>
+  <source src="{{:enclosure}}" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> </div>
                    <div class="post-description"><p>{{:content}}</p></div>
 
 </section>
@@ -105,7 +131,9 @@
     </div>
 </div>
 
-<script> loadFeed('feed/rfa/index.xml','#postTemplate') </script>
+<script> 
+loadFeed('feed/rfa/index.xml','#imageTemplate') 
+</script>
 
 </body>
 </html>

@@ -58,6 +58,7 @@ $.get(rssurl, function(data) {
 		content: $this.find("content\\:encoded").text(),
 		imageSrc: $this.find("media\\:content").attr("url"),
 		imageDesc: $this.find("media\\:description").text(),
+		enclosure: $this.find("enclosure").attr("url"),
 		category: siteTitle
         }
 
