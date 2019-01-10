@@ -30,7 +30,7 @@ function showAddAppPrompt () {
 
 }
 
-function loadFeed (rssurl,templateName) {
+function loadFeed (rssurl,templateId) {
 
 console.debug("loading: " + rssurl)
 
@@ -45,7 +45,7 @@ $.get(rssurl, function(data) {
 	siteTitle = $(this).text();
     });
 
-    var tmpl = $.templates("#post-template"); // Get compiled template
+     var tmpl = $.templates(templateId); // Get compiled template
 
     $xml.find("item").each(function() {
        var $this = $(this),
