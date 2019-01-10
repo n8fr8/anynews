@@ -25,6 +25,7 @@ const PRECACHE_URLS = [
   'css/pure/pure-min.css',
   'js/jsrender.min.js',
   'js/jquery-3.3.1.min.js',
+  'js/lightbox.min.js',
   'css/pure/grids-responsive-min.css',
   'css/layouts/blog.css',
   'feed/rfa/index.xml',
