@@ -1,0 +1,22 @@
+{
+  "short_name": "TheNews",
+  "name": "The News",
+  "icons": [
+    {
+      "src": "/img/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#000033",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000033"
+}
+
